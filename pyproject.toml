@@ -1,0 +1,15 @@
+[project]
+name = "autobench"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "openai>=2.23.0",
+    "pandas>=3.0.1",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "ruff>=0.15.2",
+]

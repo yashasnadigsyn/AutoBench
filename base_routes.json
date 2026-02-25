@@ -1,0 +1,4292 @@
+{
+  "Manyata Tech Park": {
+    "Electronic City Phase 1": {
+      "distance_km": 31.29,
+      "duration_min": 38.2
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 18.75,
+      "duration_min": 23.5
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 21.46,
+      "duration_min": 33.1
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 19.22,
+      "duration_min": 24.2
+    },
+    "Hoskote": {
+      "distance_km": 25.05,
+      "duration_min": 26.5
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 17.04,
+      "duration_min": 24.4
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 36.64,
+      "duration_min": 41.9
+    },
+    "Koramangala": {
+      "distance_km": 17.93,
+      "duration_min": 21.2
+    },
+    "Chickpet": {
+      "distance_km": 12.66,
+      "duration_min": 17.0
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 16.33,
+      "duration_min": 20.7
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 17.62,
+      "duration_min": 22.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 12.28,
+      "duration_min": 17.0
+    },
+    "KR Market": {
+      "distance_km": 13.79,
+      "duration_min": 17.8
+    },
+    "Commercial street": {
+      "distance_km": 9.26,
+      "duration_min": 12.6
+    },
+    "Russel Market": {
+      "distance_km": 8.91,
+      "duration_min": 11.6
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 33.62,
+      "duration_min": 46.3
+    },
+    "Lalbagh": {
+      "distance_km": 14.36,
+      "duration_min": 18.2
+    },
+    "Indiranagar": {
+      "distance_km": 16.79,
+      "duration_min": 20.8
+    },
+    "Vidyaranyapura": {
+      "distance_km": 11.81,
+      "duration_min": 18.4
+    },
+    "Chandra Layout": {
+      "distance_km": 20.93,
+      "duration_min": 26.0
+    },
+    "Yalachenahalli": {
+      "distance_km": 22.32,
+      "duration_min": 25.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 7.13,
+      "duration_min": 10.6
+    },
+    "RT Nagar": {
+      "distance_km": 7.24,
+      "duration_min": 9.9
+    },
+    "Mathikere": {
+      "distance_km": 9.74,
+      "duration_min": 14.3
+    },
+    "Yelahnka": {
+      "distance_km": 9.64,
+      "duration_min": 17.2
+    },
+    "Laggere": {
+      "distance_km": 15.21,
+      "duration_min": 22.7
+    },
+    "Majestic": {
+      "distance_km": 13.56,
+      "duration_min": 18.9
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 12.58,
+      "duration_min": 18.7
+    },
+    "KR Puram": {
+      "distance_km": 9.71,
+      "duration_min": 13.8
+    },
+    "Hebbal": {
+      "distance_km": 6.85,
+      "duration_min": 12.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 25.76,
+      "duration_min": 31.6
+    },
+    "Goraguntepalya": {
+      "distance_km": 11.26,
+      "duration_min": 16.5
+    }
+  },
+  "Electronic City Phase 1": {
+    "Manyata Tech Park": {
+      "distance_km": 29.14,
+      "duration_min": 36.6
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 28.8,
+      "duration_min": 35.0
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 16.93,
+      "duration_min": 24.0
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 21.85,
+      "duration_min": 28.6
+    },
+    "Hoskote": {
+      "distance_km": 40.61,
+      "duration_min": 41.4
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 43.94,
+      "duration_min": 34.5
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 7.88,
+      "duration_min": 12.1
+    },
+    "Koramangala": {
+      "distance_km": 13.59,
+      "duration_min": 16.6
+    },
+    "Chickpet": {
+      "distance_km": 20.37,
+      "duration_min": 25.6
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 19.64,
+      "duration_min": 24.0
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 16.5,
+      "duration_min": 19.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 24.11,
+      "duration_min": 28.5
+    },
+    "KR Market": {
+      "distance_km": 19.74,
+      "duration_min": 24.4
+    },
+    "Commercial street": {
+      "distance_km": 19.68,
+      "duration_min": 26.1
+    },
+    "Russel Market": {
+      "distance_km": 19.66,
+      "duration_min": 25.6
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 18.82,
+      "duration_min": 25.6
+    },
+    "Lalbagh": {
+      "distance_km": 17.92,
+      "duration_min": 22.1
+    },
+    "Indiranagar": {
+      "distance_km": 16.43,
+      "duration_min": 19.4
+    },
+    "Vidyaranyapura": {
+      "distance_km": 35.74,
+      "duration_min": 42.7
+    },
+    "Chandra Layout": {
+      "distance_km": 33.79,
+      "duration_min": 29.3
+    },
+    "Yalachenahalli": {
+      "distance_km": 18.68,
+      "duration_min": 18.9
+    },
+    "Sahakara Nagar": {
+      "distance_km": 31.39,
+      "duration_min": 38.0
+    },
+    "RT Nagar": {
+      "distance_km": 24.68,
+      "duration_min": 32.2
+    },
+    "Mathikere": {
+      "distance_km": 28.73,
+      "duration_min": 35.0
+    },
+    "Yelahnka": {
+      "distance_km": 37.1,
+      "duration_min": 45.0
+    },
+    "Laggere": {
+      "distance_km": 43.94,
+      "duration_min": 35.4
+    },
+    "Majestic": {
+      "distance_km": 22.0,
+      "duration_min": 28.0
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 29.38,
+      "duration_min": 35.5
+    },
+    "KR Puram": {
+      "distance_km": 23.78,
+      "duration_min": 27.9
+    },
+    "Hebbal": {
+      "distance_km": 28.74,
+      "duration_min": 34.4
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 28.49,
+      "duration_min": 24.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 29.15,
+      "duration_min": 34.7
+    }
+  },
+  "ITPL Bengaluru": {
+    "Manyata Tech Park": {
+      "distance_km": 17.78,
+      "duration_min": 24.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 28.13,
+      "duration_min": 34.0
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 12.52,
+      "duration_min": 19.3
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 5.84,
+      "duration_min": 8.7
+    },
+    "Hoskote": {
+      "distance_km": 16.23,
+      "duration_min": 15.1
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 32.27,
+      "duration_min": 38.3
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 34.38,
+      "duration_min": 43.3
+    },
+    "Koramangala": {
+      "distance_km": 18.11,
+      "duration_min": 22.1
+    },
+    "Chickpet": {
+      "distance_km": 20.73,
+      "duration_min": 24.0
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 24.57,
+      "duration_min": 27.5
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 25.86,
+      "duration_min": 29.4
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 23.21,
+      "duration_min": 25.7
+    },
+    "KR Market": {
+      "distance_km": 22.03,
+      "duration_min": 24.6
+    },
+    "Commercial street": {
+      "distance_km": 17.06,
+      "duration_min": 20.0
+    },
+    "Russel Market": {
+      "distance_km": 17.39,
+      "duration_min": 20.3
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 35.75,
+      "duration_min": 49.8
+    },
+    "Lalbagh": {
+      "distance_km": 22.61,
+      "duration_min": 25.0
+    },
+    "Indiranagar": {
+      "distance_km": 16.46,
+      "duration_min": 20.2
+    },
+    "Vidyaranyapura": {
+      "distance_km": 31.46,
+      "duration_min": 37.8
+    },
+    "Chandra Layout": {
+      "distance_km": 29.17,
+      "duration_min": 32.8
+    },
+    "Yalachenahalli": {
+      "distance_km": 30.56,
+      "duration_min": 32.6
+    },
+    "Sahakara Nagar": {
+      "distance_km": 22.7,
+      "duration_min": 31.1
+    },
+    "RT Nagar": {
+      "distance_km": 21.19,
+      "duration_min": 24.6
+    },
+    "Mathikere": {
+      "distance_km": 25.41,
+      "duration_min": 30.3
+    },
+    "Yelahnka": {
+      "distance_km": 29.78,
+      "duration_min": 37.8
+    },
+    "Laggere": {
+      "distance_km": 28.88,
+      "duration_min": 34.2
+    },
+    "Majestic": {
+      "distance_km": 21.62,
+      "duration_min": 25.9
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 26.8,
+      "duration_min": 31.5
+    },
+    "KR Puram": {
+      "distance_km": 9.97,
+      "duration_min": 12.0
+    },
+    "Hebbal": {
+      "distance_km": 23.9,
+      "duration_min": 27.9
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 34.0,
+      "duration_min": 38.4
+    },
+    "Goraguntepalya": {
+      "distance_km": 26.57,
+      "duration_min": 30.7
+    }
+  },
+  "EcoWorld Bellandur": {
+    "Manyata Tech Park": {
+      "distance_km": 20.44,
+      "duration_min": 29.8
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 16.6,
+      "duration_min": 23.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 14.78,
+      "duration_min": 19.8
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 7.66,
+      "duration_min": 12.4
+    },
+    "Hoskote": {
+      "distance_km": 26.94,
+      "duration_min": 28.5
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 31.49,
+      "duration_min": 40.3
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 21.59,
+      "duration_min": 32.0
+    },
+    "Koramangala": {
+      "distance_km": 9.52,
+      "duration_min": 13.4
+    },
+    "Chickpet": {
+      "distance_km": 17.01,
+      "duration_min": 23.6
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 15.74,
+      "duration_min": 22.7
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 13.27,
+      "duration_min": 19.4
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 20.75,
+      "duration_min": 26.5
+    },
+    "KR Market": {
+      "distance_km": 16.38,
+      "duration_min": 22.4
+    },
+    "Commercial street": {
+      "distance_km": 15.87,
+      "duration_min": 22.9
+    },
+    "Russel Market": {
+      "distance_km": 16.32,
+      "duration_min": 23.5
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 25.78,
+      "duration_min": 37.8
+    },
+    "Lalbagh": {
+      "distance_km": 14.56,
+      "duration_min": 20.1
+    },
+    "Indiranagar": {
+      "distance_km": 11.26,
+      "duration_min": 15.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 32.38,
+      "duration_min": 40.7
+    },
+    "Chandra Layout": {
+      "distance_km": 22.12,
+      "duration_min": 30.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 16.83,
+      "duration_min": 21.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 27.28,
+      "duration_min": 35.9
+    },
+    "RT Nagar": {
+      "distance_km": 21.93,
+      "duration_min": 29.0
+    },
+    "Mathikere": {
+      "distance_km": 25.37,
+      "duration_min": 33.0
+    },
+    "Yelahnka": {
+      "distance_km": 33.0,
+      "duration_min": 42.9
+    },
+    "Laggere": {
+      "distance_km": 26.41,
+      "duration_min": 35.1
+    },
+    "Majestic": {
+      "distance_km": 18.64,
+      "duration_min": 26.0
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 26.02,
+      "duration_min": 33.5
+    },
+    "KR Puram": {
+      "distance_km": 12.63,
+      "duration_min": 17.4
+    },
+    "Hebbal": {
+      "distance_km": 24.64,
+      "duration_min": 32.2
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 25.62,
+      "duration_min": 32.5
+    },
+    "Goraguntepalya": {
+      "distance_km": 25.8,
+      "duration_min": 32.7
+    }
+  },
+  "Brigade Tech Gardens": {
+    "Manyata Tech Park": {
+      "distance_km": 16.92,
+      "duration_min": 23.6
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 21.43,
+      "duration_min": 28.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 7.59,
+      "duration_min": 10.9
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 7.73,
+      "duration_min": 12.8
+    },
+    "Hoskote": {
+      "distance_km": 21.8,
+      "duration_min": 20.6
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 31.41,
+      "duration_min": 37.5
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 26.76,
+      "duration_min": 37.4
+    },
+    "Koramangala": {
+      "distance_km": 13.32,
+      "duration_min": 15.6
+    },
+    "Chickpet": {
+      "distance_km": 17.41,
+      "duration_min": 22.0
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 19.86,
+      "duration_min": 24.4
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.95,
+      "duration_min": 23.4
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 20.41,
+      "duration_min": 24.3
+    },
+    "KR Market": {
+      "distance_km": 17.32,
+      "duration_min": 21.5
+    },
+    "Commercial street": {
+      "distance_km": 14.92,
+      "duration_min": 19.0
+    },
+    "Russel Market": {
+      "distance_km": 16.53,
+      "duration_min": 19.5
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 30.96,
+      "duration_min": 43.3
+    },
+    "Lalbagh": {
+      "distance_km": 17.81,
+      "duration_min": 21.9
+    },
+    "Indiranagar": {
+      "distance_km": 11.67,
+      "duration_min": 13.7
+    },
+    "Vidyaranyapura": {
+      "distance_km": 30.59,
+      "duration_min": 36.9
+    },
+    "Chandra Layout": {
+      "distance_km": 24.47,
+      "duration_min": 29.7
+    },
+    "Yalachenahalli": {
+      "distance_km": 24.13,
+      "duration_min": 26.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 21.84,
+      "duration_min": 30.2
+    },
+    "RT Nagar": {
+      "distance_km": 20.33,
+      "duration_min": 23.8
+    },
+    "Mathikere": {
+      "distance_km": 24.55,
+      "duration_min": 29.5
+    },
+    "Yelahnka": {
+      "distance_km": 28.92,
+      "duration_min": 37.0
+    },
+    "Laggere": {
+      "distance_km": 26.07,
+      "duration_min": 32.9
+    },
+    "Majestic": {
+      "distance_km": 18.3,
+      "duration_min": 23.8
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 25.94,
+      "duration_min": 30.6
+    },
+    "KR Puram": {
+      "distance_km": 9.11,
+      "duration_min": 11.2
+    },
+    "Hebbal": {
+      "distance_km": 23.04,
+      "duration_min": 27.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 29.29,
+      "duration_min": 35.2
+    },
+    "Goraguntepalya": {
+      "distance_km": 25.71,
+      "duration_min": 29.8
+    }
+  },
+  "Hoskote": {
+    "Manyata Tech Park": {
+      "distance_km": 25.42,
+      "duration_min": 28.0
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 40.02,
+      "duration_min": 42.8
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 16.19,
+      "duration_min": 15.9
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 27.09,
+      "duration_min": 29.2
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 21.95,
+      "duration_min": 20.9
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 39.9,
+      "duration_min": 41.9
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 49.37,
+      "duration_min": 49.5
+    },
+    "Koramangala": {
+      "distance_km": 26.67,
+      "duration_min": 25.9
+    },
+    "Chickpet": {
+      "distance_km": 28.36,
+      "duration_min": 27.6
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 32.2,
+      "duration_min": 31.2
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 33.5,
+      "duration_min": 33.1
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 30.85,
+      "duration_min": 29.3
+    },
+    "KR Market": {
+      "distance_km": 29.66,
+      "duration_min": 28.2
+    },
+    "Commercial street": {
+      "distance_km": 24.69,
+      "duration_min": 23.6
+    },
+    "Russel Market": {
+      "distance_km": 25.03,
+      "duration_min": 23.9
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 46.36,
+      "duration_min": 53.9
+    },
+    "Lalbagh": {
+      "distance_km": 30.24,
+      "duration_min": 28.7
+    },
+    "Indiranagar": {
+      "distance_km": 25.02,
+      "duration_min": 24.0
+    },
+    "Vidyaranyapura": {
+      "distance_km": 39.09,
+      "duration_min": 41.4
+    },
+    "Chandra Layout": {
+      "distance_km": 36.81,
+      "duration_min": 36.4
+    },
+    "Yalachenahalli": {
+      "distance_km": 38.2,
+      "duration_min": 36.2
+    },
+    "Sahakara Nagar": {
+      "distance_km": 29.68,
+      "duration_min": 33.9
+    },
+    "RT Nagar": {
+      "distance_km": 28.82,
+      "duration_min": 28.3
+    },
+    "Mathikere": {
+      "distance_km": 33.05,
+      "duration_min": 33.9
+    },
+    "Yelahnka": {
+      "distance_km": 31.38,
+      "duration_min": 36.4
+    },
+    "Laggere": {
+      "distance_km": 36.51,
+      "duration_min": 37.8
+    },
+    "Majestic": {
+      "distance_km": 29.25,
+      "duration_min": 29.5
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 34.44,
+      "duration_min": 35.1
+    },
+    "KR Puram": {
+      "distance_km": 17.61,
+      "duration_min": 15.6
+    },
+    "Hebbal": {
+      "distance_km": 31.53,
+      "duration_min": 31.5
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 41.64,
+      "duration_min": 42.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 34.21,
+      "duration_min": 34.3
+    }
+  },
+  "Peenya Industrial Area": {
+    "Manyata Tech Park": {
+      "distance_km": 20.59,
+      "duration_min": 30.2
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 44.91,
+      "duration_min": 36.5
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 34.11,
+      "duration_min": 38.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 31.38,
+      "duration_min": 38.1
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 31.35,
+      "duration_min": 37.2
+    },
+    "Hoskote": {
+      "distance_km": 41.9,
+      "duration_min": 42.4
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 42.94,
+      "duration_min": 35.9
+    },
+    "Koramangala": {
+      "distance_km": 20.16,
+      "duration_min": 26.3
+    },
+    "Chickpet": {
+      "distance_km": 13.38,
+      "duration_min": 17.4
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 16.15,
+      "duration_min": 18.1
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.99,
+      "duration_min": 21.1
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 8.89,
+      "duration_min": 14.7
+    },
+    "KR Market": {
+      "distance_km": 13.15,
+      "duration_min": 16.7
+    },
+    "Commercial street": {
+      "distance_km": 17.01,
+      "duration_min": 21.0
+    },
+    "Russel Market": {
+      "distance_km": 16.73,
+      "duration_min": 20.3
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 39.92,
+      "duration_min": 40.3
+    },
+    "Lalbagh": {
+      "distance_km": 15.33,
+      "duration_min": 19.1
+    },
+    "Indiranagar": {
+      "distance_km": 24.4,
+      "duration_min": 28.8
+    },
+    "Vidyaranyapura": {
+      "distance_km": 11.76,
+      "duration_min": 15.5
+    },
+    "Chandra Layout": {
+      "distance_km": 9.68,
+      "duration_min": 11.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 18.91,
+      "duration_min": 19.6
+    },
+    "Sahakara Nagar": {
+      "distance_km": 13.86,
+      "duration_min": 19.3
+    },
+    "RT Nagar": {
+      "distance_km": 14.35,
+      "duration_min": 20.6
+    },
+    "Mathikere": {
+      "distance_km": 10.31,
+      "duration_min": 14.8
+    },
+    "Yelahnka": {
+      "distance_km": 19.49,
+      "duration_min": 26.7
+    },
+    "Laggere": {
+      "distance_km": 2.54,
+      "duration_min": 5.8
+    },
+    "Majestic": {
+      "distance_km": 13.82,
+      "duration_min": 18.0
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 7.05,
+      "duration_min": 10.4
+    },
+    "KR Puram": {
+      "distance_km": 25.07,
+      "duration_min": 28.9
+    },
+    "Hebbal": {
+      "distance_km": 14.68,
+      "duration_min": 21.5
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 19.44,
+      "duration_min": 18.3
+    },
+    "Goraguntepalya": {
+      "distance_km": 5.73,
+      "duration_min": 8.3
+    }
+  },
+  "Jigani Industrial Area": {
+    "Manyata Tech Park": {
+      "distance_km": 34.74,
+      "duration_min": 40.5
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 7.38,
+      "duration_min": 11.5
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 36.03,
+      "duration_min": 44.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 23.98,
+      "duration_min": 32.6
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 28.9,
+      "duration_min": 37.2
+    },
+    "Hoskote": {
+      "distance_km": 44.58,
+      "duration_min": 48.5
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 44.13,
+      "duration_min": 36.0
+    },
+    "Koramangala": {
+      "distance_km": 17.56,
+      "duration_min": 23.8
+    },
+    "Chickpet": {
+      "distance_km": 26.27,
+      "duration_min": 28.6
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 23.84,
+      "duration_min": 25.2
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 21.05,
+      "duration_min": 21.5
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 30.01,
+      "duration_min": 31.5
+    },
+    "KR Market": {
+      "distance_km": 26.01,
+      "duration_min": 27.1
+    },
+    "Commercial street": {
+      "distance_km": 26.41,
+      "duration_min": 29.9
+    },
+    "Russel Market": {
+      "distance_km": 26.39,
+      "duration_min": 29.4
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 9.53,
+      "duration_min": 17.6
+    },
+    "Lalbagh": {
+      "distance_km": 23.82,
+      "duration_min": 25.1
+    },
+    "Indiranagar": {
+      "distance_km": 20.4,
+      "duration_min": 26.5
+    },
+    "Vidyaranyapura": {
+      "distance_km": 41.64,
+      "duration_min": 45.7
+    },
+    "Chandra Layout": {
+      "distance_km": 33.97,
+      "duration_min": 30.8
+    },
+    "Yalachenahalli": {
+      "distance_km": 17.78,
+      "duration_min": 18.6
+    },
+    "Sahakara Nagar": {
+      "distance_km": 37.29,
+      "duration_min": 41.0
+    },
+    "RT Nagar": {
+      "distance_km": 31.4,
+      "duration_min": 36.0
+    },
+    "Mathikere": {
+      "distance_km": 34.63,
+      "duration_min": 38.0
+    },
+    "Yelahnka": {
+      "distance_km": 43.01,
+      "duration_min": 48.0
+    },
+    "Laggere": {
+      "distance_km": 44.12,
+      "duration_min": 36.9
+    },
+    "Majestic": {
+      "distance_km": 27.91,
+      "duration_min": 31.0
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 35.28,
+      "duration_min": 38.5
+    },
+    "KR Puram": {
+      "distance_km": 27.76,
+      "duration_min": 35.0
+    },
+    "Hebbal": {
+      "distance_km": 34.64,
+      "duration_min": 37.3
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 28.68,
+      "duration_min": 25.4
+    },
+    "Goraguntepalya": {
+      "distance_km": 35.06,
+      "duration_min": 37.7
+    }
+  },
+  "Koramangala": {
+    "Manyata Tech Park": {
+      "distance_km": 15.31,
+      "duration_min": 20.2
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 13.92,
+      "duration_min": 18.6
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 19.23,
+      "duration_min": 21.0
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 10.07,
+      "duration_min": 14.3
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 13.66,
+      "duration_min": 15.4
+    },
+    "Hoskote": {
+      "distance_km": 27.02,
+      "duration_min": 24.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 22.95,
+      "duration_min": 28.9
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 23.27,
+      "duration_min": 25.3
+    },
+    "Chickpet": {
+      "distance_km": 9.21,
+      "duration_min": 12.7
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 7.92,
+      "duration_min": 12.2
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 6.2,
+      "duration_min": 9.5
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 12.21,
+      "duration_min": 15.1
+    },
+    "KR Market": {
+      "distance_km": 8.61,
+      "duration_min": 11.9
+    },
+    "Commercial street": {
+      "distance_km": 7.45,
+      "duration_min": 10.5
+    },
+    "Russel Market": {
+      "distance_km": 7.91,
+      "duration_min": 11.1
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 20.26,
+      "duration_min": 29.7
+    },
+    "Lalbagh": {
+      "distance_km": 6.79,
+      "duration_min": 9.6
+    },
+    "Indiranagar": {
+      "distance_km": 2.84,
+      "duration_min": 2.7
+    },
+    "Vidyaranyapura": {
+      "distance_km": 23.84,
+      "duration_min": 29.3
+    },
+    "Chandra Layout": {
+      "distance_km": 14.78,
+      "duration_min": 20.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 11.37,
+      "duration_min": 12.9
+    },
+    "Sahakara Nagar": {
+      "distance_km": 18.43,
+      "duration_min": 23.8
+    },
+    "RT Nagar": {
+      "distance_km": 13.08,
+      "duration_min": 16.9
+    },
+    "Mathikere": {
+      "distance_km": 16.83,
+      "duration_min": 21.5
+    },
+    "Yelahnka": {
+      "distance_km": 24.15,
+      "duration_min": 30.8
+    },
+    "Laggere": {
+      "distance_km": 17.87,
+      "duration_min": 23.6
+    },
+    "Majestic": {
+      "distance_km": 10.1,
+      "duration_min": 14.6
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 17.48,
+      "duration_min": 22.0
+    },
+    "KR Puram": {
+      "distance_km": 10.2,
+      "duration_min": 11.2
+    },
+    "Hebbal": {
+      "distance_km": 15.79,
+      "duration_min": 20.1
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 20.16,
+      "duration_min": 23.7
+    },
+    "Goraguntepalya": {
+      "distance_km": 17.25,
+      "duration_min": 21.3
+    }
+  },
+  "Chickpet": {
+    "Manyata Tech Park": {
+      "distance_km": 13.09,
+      "duration_min": 17.6
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 20.17,
+      "duration_min": 27.2
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 21.27,
+      "duration_min": 24.9
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 17.1,
+      "duration_min": 24.3
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 18.51,
+      "duration_min": 23.6
+    },
+    "Hoskote": {
+      "distance_km": 29.06,
+      "duration_min": 28.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 14.56,
+      "duration_min": 18.6
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 26.51,
+      "duration_min": 29.1
+    },
+    "Koramangala": {
+      "distance_km": 8.36,
+      "duration_min": 12.4
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 3.96,
+      "duration_min": 5.7
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 6.35,
+      "duration_min": 8.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 3.82,
+      "duration_min": 4.8
+    },
+    "KR Market": {
+      "distance_km": 1.18,
+      "duration_min": 2.7
+    },
+    "Commercial street": {
+      "distance_km": 4.89,
+      "duration_min": 7.6
+    },
+    "Russel Market": {
+      "distance_km": 4.61,
+      "duration_min": 6.9
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 23.5,
+      "duration_min": 33.5
+    },
+    "Lalbagh": {
+      "distance_km": 3.53,
+      "duration_min": 5.2
+    },
+    "Indiranagar": {
+      "distance_km": 11.57,
+      "duration_min": 15.1
+    },
+    "Vidyaranyapura": {
+      "distance_km": 15.45,
+      "duration_min": 19.0
+    },
+    "Chandra Layout": {
+      "distance_km": 8.74,
+      "duration_min": 11.5
+    },
+    "Yalachenahalli": {
+      "distance_km": 10.23,
+      "duration_min": 11.4
+    },
+    "Sahakara Nagar": {
+      "distance_km": 11.49,
+      "duration_min": 15.0
+    },
+    "RT Nagar": {
+      "distance_km": 7.36,
+      "duration_min": 10.5
+    },
+    "Mathikere": {
+      "distance_km": 8.44,
+      "duration_min": 11.2
+    },
+    "Yelahnka": {
+      "distance_km": 17.21,
+      "duration_min": 22.0
+    },
+    "Laggere": {
+      "distance_km": 9.48,
+      "duration_min": 13.3
+    },
+    "Majestic": {
+      "distance_km": 1.71,
+      "duration_min": 4.3
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 9.09,
+      "duration_min": 11.8
+    },
+    "KR Puram": {
+      "distance_km": 12.24,
+      "duration_min": 15.2
+    },
+    "Hebbal": {
+      "distance_km": 8.85,
+      "duration_min": 11.3
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 13.56,
+      "duration_min": 17.1
+    },
+    "Goraguntepalya": {
+      "distance_km": 8.86,
+      "duration_min": 11.0
+    }
+  },
+  "Gandhi Bazaar": {
+    "Manyata Tech Park": {
+      "distance_km": 15.98,
+      "duration_min": 20.6
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 19.55,
+      "duration_min": 24.9
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 23.68,
+      "duration_min": 26.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 17.39,
+      "duration_min": 23.4
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 20.92,
+      "duration_min": 25.3
+    },
+    "Hoskote": {
+      "distance_km": 31.47,
+      "duration_min": 30.4
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 15.35,
+      "duration_min": 20.8
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 23.91,
+      "duration_min": 25.3
+    },
+    "Koramangala": {
+      "distance_km": 8.09,
+      "duration_min": 11.8
+    },
+    "Chickpet": {
+      "distance_km": 3.47,
+      "duration_min": 5.5
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 3.28,
+      "duration_min": 4.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 7.13,
+      "duration_min": 8.9
+    },
+    "KR Market": {
+      "distance_km": 2.65,
+      "duration_min": 3.7
+    },
+    "Commercial street": {
+      "distance_km": 7.32,
+      "duration_min": 9.7
+    },
+    "Russel Market": {
+      "distance_km": 7.05,
+      "duration_min": 9.0
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 20.89,
+      "duration_min": 29.7
+    },
+    "Lalbagh": {
+      "distance_km": 2.16,
+      "duration_min": 3.9
+    },
+    "Indiranagar": {
+      "distance_km": 10.93,
+      "duration_min": 14.6
+    },
+    "Vidyaranyapura": {
+      "distance_km": 18.76,
+      "duration_min": 23.1
+    },
+    "Chandra Layout": {
+      "distance_km": 7.28,
+      "duration_min": 10.7
+    },
+    "Yalachenahalli": {
+      "distance_km": 6.55,
+      "duration_min": 7.0
+    },
+    "Sahakara Nagar": {
+      "distance_km": 15.69,
+      "duration_min": 18.7
+    },
+    "RT Nagar": {
+      "distance_km": 11.55,
+      "duration_min": 14.2
+    },
+    "Mathikere": {
+      "distance_km": 11.75,
+      "duration_min": 15.3
+    },
+    "Yelahnka": {
+      "distance_km": 21.4,
+      "duration_min": 25.7
+    },
+    "Laggere": {
+      "distance_km": 12.05,
+      "duration_min": 15.9
+    },
+    "Majestic": {
+      "distance_km": 5.19,
+      "duration_min": 8.4
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 12.56,
+      "duration_min": 15.2
+    },
+    "KR Puram": {
+      "distance_km": 14.65,
+      "duration_min": 16.9
+    },
+    "Hebbal": {
+      "distance_km": 13.04,
+      "duration_min": 15.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 12.37,
+      "duration_min": 16.3
+    },
+    "Goraguntepalya": {
+      "distance_km": 12.34,
+      "duration_min": 14.4
+    }
+  },
+  "Jayanagar 4th block": {
+    "Manyata Tech Park": {
+      "distance_km": 17.4,
+      "duration_min": 22.7
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 16.31,
+      "duration_min": 20.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 25.11,
+      "duration_min": 28.7
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 14.16,
+      "duration_min": 19.3
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 20.92,
+      "duration_min": 23.8
+    },
+    "Hoskote": {
+      "distance_km": 32.9,
+      "duration_min": 32.4
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 19.91,
+      "duration_min": 23.6
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 21.16,
+      "duration_min": 21.5
+    },
+    "Koramangala": {
+      "distance_km": 7.26,
+      "duration_min": 8.4
+    },
+    "Chickpet": {
+      "distance_km": 6.26,
+      "duration_min": 8.3
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 3.34,
+      "duration_min": 4.5
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 9.83,
+      "duration_min": 11.2
+    },
+    "KR Market": {
+      "distance_km": 5.44,
+      "duration_min": 6.4
+    },
+    "Commercial street": {
+      "distance_km": 8.75,
+      "duration_min": 11.7
+    },
+    "Russel Market": {
+      "distance_km": 8.47,
+      "duration_min": 11.0
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 18.14,
+      "duration_min": 25.9
+    },
+    "Lalbagh": {
+      "distance_km": 3.5,
+      "duration_min": 5.2
+    },
+    "Indiranagar": {
+      "distance_km": 10.1,
+      "duration_min": 11.1
+    },
+    "Vidyaranyapura": {
+      "distance_km": 21.47,
+      "duration_min": 25.4
+    },
+    "Chandra Layout": {
+      "distance_km": 9.99,
+      "duration_min": 12.8
+    },
+    "Yalachenahalli": {
+      "distance_km": 4.84,
+      "duration_min": 4.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 17.11,
+      "duration_min": 20.7
+    },
+    "RT Nagar": {
+      "distance_km": 12.97,
+      "duration_min": 16.2
+    },
+    "Mathikere": {
+      "distance_km": 14.45,
+      "duration_min": 17.7
+    },
+    "Yelahnka": {
+      "distance_km": 22.83,
+      "duration_min": 27.7
+    },
+    "Laggere": {
+      "distance_km": 14.91,
+      "duration_min": 19.3
+    },
+    "Majestic": {
+      "distance_km": 7.73,
+      "duration_min": 10.7
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 15.1,
+      "duration_min": 18.2
+    },
+    "KR Puram": {
+      "distance_km": 16.07,
+      "duration_min": 18.9
+    },
+    "Hebbal": {
+      "distance_km": 14.46,
+      "duration_min": 17.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 13.63,
+      "duration_min": 15.6
+    },
+    "Goraguntepalya": {
+      "distance_km": 14.88,
+      "duration_min": 17.4
+    }
+  },
+  "Malleshwaram 8th cross": {
+    "Manyata Tech Park": {
+      "distance_km": 12.03,
+      "duration_min": 16.3
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 23.57,
+      "duration_min": 30.2
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 21.34,
+      "duration_min": 25.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 20.49,
+      "duration_min": 27.4
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 19.98,
+      "duration_min": 24.6
+    },
+    "Hoskote": {
+      "distance_km": 29.59,
+      "duration_min": 30.3
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 9.06,
+      "duration_min": 14.8
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 29.91,
+      "duration_min": 32.2
+    },
+    "Koramangala": {
+      "distance_km": 11.75,
+      "duration_min": 15.5
+    },
+    "Chickpet": {
+      "distance_km": 3.83,
+      "duration_min": 5.7
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 7.23,
+      "duration_min": 10.0
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 10.34,
+      "duration_min": 12.8
+    },
+    "KR Market": {
+      "distance_km": 4.63,
+      "duration_min": 7.2
+    },
+    "Commercial street": {
+      "distance_km": 5.28,
+      "duration_min": 8.4
+    },
+    "Russel Market": {
+      "distance_km": 4.42,
+      "duration_min": 7.0
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 26.89,
+      "duration_min": 36.6
+    },
+    "Lalbagh": {
+      "distance_km": 7.09,
+      "duration_min": 8.4
+    },
+    "Indiranagar": {
+      "distance_km": 13.04,
+      "duration_min": 16.1
+    },
+    "Vidyaranyapura": {
+      "distance_km": 12.22,
+      "duration_min": 15.4
+    },
+    "Chandra Layout": {
+      "distance_km": 10.07,
+      "duration_min": 11.0
+    },
+    "Yalachenahalli": {
+      "distance_km": 13.75,
+      "duration_min": 15.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 8.87,
+      "duration_min": 12.2
+    },
+    "RT Nagar": {
+      "distance_km": 5.87,
+      "duration_min": 8.1
+    },
+    "Mathikere": {
+      "distance_km": 5.21,
+      "duration_min": 7.6
+    },
+    "Yelahnka": {
+      "distance_km": 14.59,
+      "duration_min": 19.3
+    },
+    "Laggere": {
+      "distance_km": 6.69,
+      "duration_min": 9.5
+    },
+    "Majestic": {
+      "distance_km": 3.58,
+      "duration_min": 5.6
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 6.64,
+      "duration_min": 8.5
+    },
+    "KR Puram": {
+      "distance_km": 12.3,
+      "duration_min": 15.9
+    },
+    "Hebbal": {
+      "distance_km": 6.22,
+      "duration_min": 8.6
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 17.45,
+      "duration_min": 19.6
+    },
+    "Goraguntepalya": {
+      "distance_km": 6.41,
+      "duration_min": 7.8
+    }
+  },
+  "KR Market": {
+    "Manyata Tech Park": {
+      "distance_km": 14.22,
+      "duration_min": 19.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 19.57,
+      "duration_min": 26.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 21.51,
+      "duration_min": 25.4
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 16.49,
+      "duration_min": 23.8
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 18.75,
+      "duration_min": 24.1
+    },
+    "Hoskote": {
+      "distance_km": 29.3,
+      "duration_min": 29.2
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 11.58,
+      "duration_min": 18.9
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 25.91,
+      "duration_min": 28.6
+    },
+    "Koramangala": {
+      "distance_km": 7.76,
+      "duration_min": 12.0
+    },
+    "Chickpet": {
+      "distance_km": 1.28,
+      "duration_min": 2.7
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 3.48,
+      "duration_min": 5.3
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 5.75,
+      "duration_min": 8.2
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 4.45,
+      "duration_min": 6.1
+    },
+    "Commercial street": {
+      "distance_km": 5.15,
+      "duration_min": 8.5
+    },
+    "Russel Market": {
+      "distance_km": 4.87,
+      "duration_min": 7.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 22.89,
+      "duration_min": 33.1
+    },
+    "Lalbagh": {
+      "distance_km": 2.93,
+      "duration_min": 4.7
+    },
+    "Indiranagar": {
+      "distance_km": 10.6,
+      "duration_min": 14.7
+    },
+    "Vidyaranyapura": {
+      "distance_km": 16.09,
+      "duration_min": 20.3
+    },
+    "Chandra Layout": {
+      "distance_km": 8.13,
+      "duration_min": 11.1
+    },
+    "Yalachenahalli": {
+      "distance_km": 9.63,
+      "duration_min": 10.9
+    },
+    "Sahakara Nagar": {
+      "distance_km": 12.63,
+      "duration_min": 16.8
+    },
+    "RT Nagar": {
+      "distance_km": 8.49,
+      "duration_min": 12.4
+    },
+    "Mathikere": {
+      "distance_km": 9.07,
+      "duration_min": 12.5
+    },
+    "Yelahnka": {
+      "distance_km": 18.35,
+      "duration_min": 23.8
+    },
+    "Laggere": {
+      "distance_km": 9.21,
+      "duration_min": 13.7
+    },
+    "Majestic": {
+      "distance_km": 2.52,
+      "duration_min": 5.6
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 9.72,
+      "duration_min": 13.0
+    },
+    "KR Puram": {
+      "distance_km": 12.48,
+      "duration_min": 15.7
+    },
+    "Hebbal": {
+      "distance_km": 9.98,
+      "duration_min": 13.2
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 12.96,
+      "duration_min": 16.6
+    },
+    "Goraguntepalya": {
+      "distance_km": 9.5,
+      "duration_min": 12.2
+    }
+  },
+  "Commercial street": {
+    "Manyata Tech Park": {
+      "distance_km": 9.06,
+      "duration_min": 12.6
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 20.3,
+      "duration_min": 26.6
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 17.4,
+      "duration_min": 19.5
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 15.6,
+      "duration_min": 22.2
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 14.8,
+      "duration_min": 18.4
+    },
+    "Hoskote": {
+      "distance_km": 25.19,
+      "duration_min": 23.2
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 18.05,
+      "duration_min": 22.0
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 25.84,
+      "duration_min": 29.4
+    },
+    "Koramangala": {
+      "distance_km": 6.94,
+      "duration_min": 9.7
+    },
+    "Chickpet": {
+      "distance_km": 4.82,
+      "duration_min": 6.5
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 8.67,
+      "duration_min": 10.1
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 9.96,
+      "duration_min": 12.0
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 7.31,
+      "duration_min": 8.2
+    },
+    "KR Market": {
+      "distance_km": 6.12,
+      "duration_min": 7.1
+    },
+    "Russel Market": {
+      "distance_km": 0.72,
+      "duration_min": 1.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 22.82,
+      "duration_min": 33.8
+    },
+    "Lalbagh": {
+      "distance_km": 6.7,
+      "duration_min": 7.6
+    },
+    "Indiranagar": {
+      "distance_km": 7.86,
+      "duration_min": 9.9
+    },
+    "Vidyaranyapura": {
+      "distance_km": 16.11,
+      "duration_min": 21.9
+    },
+    "Chandra Layout": {
+      "distance_km": 13.27,
+      "duration_min": 15.3
+    },
+    "Yalachenahalli": {
+      "distance_km": 14.66,
+      "duration_min": 15.1
+    },
+    "Sahakara Nagar": {
+      "distance_km": 11.2,
+      "duration_min": 15.6
+    },
+    "RT Nagar": {
+      "distance_km": 5.84,
+      "duration_min": 8.7
+    },
+    "Mathikere": {
+      "distance_km": 10.07,
+      "duration_min": 14.4
+    },
+    "Yelahnka": {
+      "distance_km": 16.92,
+      "duration_min": 22.6
+    },
+    "Laggere": {
+      "distance_km": 12.97,
+      "duration_min": 16.7
+    },
+    "Majestic": {
+      "distance_km": 5.72,
+      "duration_min": 8.4
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 12.58,
+      "duration_min": 15.2
+    },
+    "KR Puram": {
+      "distance_km": 8.36,
+      "duration_min": 9.8
+    },
+    "Hebbal": {
+      "distance_km": 8.55,
+      "duration_min": 12.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 18.1,
+      "duration_min": 20.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 12.36,
+      "duration_min": 14.4
+    }
+  },
+  "Russel Market": {
+    "Manyata Tech Park": {
+      "distance_km": 9.32,
+      "duration_min": 12.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 21.13,
+      "duration_min": 27.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 18.02,
+      "duration_min": 20.5
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 16.43,
+      "duration_min": 23.2
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 15.63,
+      "duration_min": 19.3
+    },
+    "Hoskote": {
+      "distance_km": 25.81,
+      "duration_min": 24.3
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 16.52,
+      "duration_min": 21.4
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 26.67,
+      "duration_min": 30.4
+    },
+    "Koramangala": {
+      "distance_km": 7.77,
+      "duration_min": 10.7
+    },
+    "Chickpet": {
+      "distance_km": 3.91,
+      "duration_min": 6.4
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 7.75,
+      "duration_min": 10.0
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 9.04,
+      "duration_min": 11.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 6.39,
+      "duration_min": 8.1
+    },
+    "KR Market": {
+      "distance_km": 5.21,
+      "duration_min": 7.0
+    },
+    "Commercial street": {
+      "distance_km": 0.61,
+      "duration_min": 1.4
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 23.65,
+      "duration_min": 34.8
+    },
+    "Lalbagh": {
+      "distance_km": 5.79,
+      "duration_min": 7.5
+    },
+    "Indiranagar": {
+      "distance_km": 8.69,
+      "duration_min": 10.8
+    },
+    "Vidyaranyapura": {
+      "distance_km": 15.71,
+      "duration_min": 20.8
+    },
+    "Chandra Layout": {
+      "distance_km": 12.35,
+      "duration_min": 15.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 13.74,
+      "duration_min": 15.0
+    },
+    "Sahakara Nagar": {
+      "distance_km": 10.8,
+      "duration_min": 14.6
+    },
+    "RT Nagar": {
+      "distance_km": 5.44,
+      "duration_min": 7.7
+    },
+    "Mathikere": {
+      "distance_km": 9.67,
+      "duration_min": 13.4
+    },
+    "Yelahnka": {
+      "distance_km": 16.52,
+      "duration_min": 21.6
+    },
+    "Laggere": {
+      "distance_km": 12.06,
+      "duration_min": 16.7
+    },
+    "Majestic": {
+      "distance_km": 4.8,
+      "duration_min": 8.3
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 11.05,
+      "duration_min": 14.5
+    },
+    "KR Puram": {
+      "distance_km": 8.99,
+      "duration_min": 10.8
+    },
+    "Hebbal": {
+      "distance_km": 8.15,
+      "duration_min": 10.9
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 17.18,
+      "duration_min": 20.8
+    },
+    "Goraguntepalya": {
+      "distance_km": 10.83,
+      "duration_min": 13.7
+    }
+  },
+  "Bannerghatta Zoo": {
+    "Manyata Tech Park": {
+      "distance_km": 31.7,
+      "duration_min": 45.0
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 16.49,
+      "duration_min": 27.8
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 38.25,
+      "duration_min": 50.1
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 26.2,
+      "duration_min": 38.1
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 31.12,
+      "duration_min": 42.8
+    },
+    "Hoskote": {
+      "distance_km": 46.45,
+      "duration_min": 53.1
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 41.09,
+      "duration_min": 40.5
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 9.55,
+      "duration_min": 17.7
+    },
+    "Koramangala": {
+      "distance_km": 19.43,
+      "duration_min": 28.4
+    },
+    "Chickpet": {
+      "distance_km": 23.23,
+      "duration_min": 33.1
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 20.8,
+      "duration_min": 29.7
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.01,
+      "duration_min": 26.0
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 26.98,
+      "duration_min": 36.0
+    },
+    "KR Market": {
+      "distance_km": 22.98,
+      "duration_min": 31.6
+    },
+    "Commercial street": {
+      "distance_km": 23.38,
+      "duration_min": 34.4
+    },
+    "Russel Market": {
+      "distance_km": 23.36,
+      "duration_min": 34.0
+    },
+    "Lalbagh": {
+      "distance_km": 20.79,
+      "duration_min": 29.6
+    },
+    "Indiranagar": {
+      "distance_km": 22.27,
+      "duration_min": 31.1
+    },
+    "Vidyaranyapura": {
+      "distance_km": 38.61,
+      "duration_min": 50.2
+    },
+    "Chandra Layout": {
+      "distance_km": 30.94,
+      "duration_min": 35.3
+    },
+    "Yalachenahalli": {
+      "distance_km": 14.75,
+      "duration_min": 23.2
+    },
+    "Sahakara Nagar": {
+      "distance_km": 34.25,
+      "duration_min": 45.5
+    },
+    "RT Nagar": {
+      "distance_km": 28.37,
+      "duration_min": 40.6
+    },
+    "Mathikere": {
+      "distance_km": 31.6,
+      "duration_min": 42.5
+    },
+    "Yelahnka": {
+      "distance_km": 39.97,
+      "duration_min": 52.5
+    },
+    "Laggere": {
+      "distance_km": 41.09,
+      "duration_min": 41.4
+    },
+    "Majestic": {
+      "distance_km": 24.87,
+      "duration_min": 35.5
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 32.25,
+      "duration_min": 43.0
+    },
+    "KR Puram": {
+      "distance_km": 29.62,
+      "duration_min": 39.6
+    },
+    "Hebbal": {
+      "distance_km": 31.61,
+      "duration_min": 41.9
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 25.64,
+      "duration_min": 30.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 32.02,
+      "duration_min": 42.2
+    }
+  },
+  "Lalbagh": {
+    "Manyata Tech Park": {
+      "distance_km": 14.66,
+      "duration_min": 19.5
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 19.53,
+      "duration_min": 24.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 22.36,
+      "duration_min": 25.5
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 16.05,
+      "duration_min": 22.4
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 19.6,
+      "duration_min": 24.1
+    },
+    "Hoskote": {
+      "distance_km": 30.15,
+      "duration_min": 29.3
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 17.83,
+      "duration_min": 21.8
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 24.37,
+      "duration_min": 25.5
+    },
+    "Koramangala": {
+      "distance_km": 7.31,
+      "duration_min": 10.6
+    },
+    "Chickpet": {
+      "distance_km": 3.34,
+      "duration_min": 5.1
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 1.83,
+      "duration_min": 3.3
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 3.26,
+      "duration_min": 4.4
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 7.09,
+      "duration_min": 8.0
+    },
+    "KR Market": {
+      "distance_km": 2.72,
+      "duration_min": 4.0
+    },
+    "Commercial street": {
+      "distance_km": 6.0,
+      "duration_min": 8.6
+    },
+    "Russel Market": {
+      "distance_km": 5.73,
+      "duration_min": 7.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 21.35,
+      "duration_min": 29.9
+    },
+    "Indiranagar": {
+      "distance_km": 10.15,
+      "duration_min": 13.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 18.72,
+      "duration_min": 22.2
+    },
+    "Chandra Layout": {
+      "distance_km": 8.89,
+      "duration_min": 12.3
+    },
+    "Yalachenahalli": {
+      "distance_km": 7.22,
+      "duration_min": 7.9
+    },
+    "Sahakara Nagar": {
+      "distance_km": 14.36,
+      "duration_min": 17.5
+    },
+    "RT Nagar": {
+      "distance_km": 10.23,
+      "duration_min": 13.1
+    },
+    "Mathikere": {
+      "distance_km": 11.71,
+      "duration_min": 14.5
+    },
+    "Yelahnka": {
+      "distance_km": 20.08,
+      "duration_min": 24.5
+    },
+    "Laggere": {
+      "distance_km": 12.75,
+      "duration_min": 16.6
+    },
+    "Majestic": {
+      "distance_km": 4.98,
+      "duration_min": 7.5
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 12.36,
+      "duration_min": 15.0
+    },
+    "KR Puram": {
+      "distance_km": 13.33,
+      "duration_min": 15.8
+    },
+    "Hebbal": {
+      "distance_km": 11.72,
+      "duration_min": 13.9
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 13.72,
+      "duration_min": 17.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 12.13,
+      "duration_min": 14.2
+    }
+  },
+  "Indiranagar": {
+    "Manyata Tech Park": {
+      "distance_km": 14.76,
+      "duration_min": 18.7
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 18.53,
+      "duration_min": 22.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 16.39,
+      "duration_min": 18.2
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 13.84,
+      "duration_min": 18.3
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 10.82,
+      "duration_min": 12.7
+    },
+    "Hoskote": {
+      "distance_km": 24.18,
+      "duration_min": 22.0
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 22.98,
+      "duration_min": 28.6
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 27.88,
+      "duration_min": 29.4
+    },
+    "Koramangala": {
+      "distance_km": 5.17,
+      "duration_min": 5.7
+    },
+    "Chickpet": {
+      "distance_km": 9.24,
+      "duration_min": 12.4
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 11.69,
+      "duration_min": 14.9
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 10.8,
+      "duration_min": 13.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 12.24,
+      "duration_min": 14.8
+    },
+    "KR Market": {
+      "distance_km": 9.15,
+      "duration_min": 11.9
+    },
+    "Commercial street": {
+      "distance_km": 6.74,
+      "duration_min": 9.4
+    },
+    "Russel Market": {
+      "distance_km": 7.19,
+      "duration_min": 10.0
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 24.86,
+      "duration_min": 33.8
+    },
+    "Lalbagh": {
+      "distance_km": 9.64,
+      "duration_min": 12.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 22.8,
+      "duration_min": 28.6
+    },
+    "Chandra Layout": {
+      "distance_km": 16.29,
+      "duration_min": 20.1
+    },
+    "Yalachenahalli": {
+      "distance_km": 15.98,
+      "duration_min": 17.0
+    },
+    "Sahakara Nagar": {
+      "distance_km": 17.89,
+      "duration_min": 22.3
+    },
+    "RT Nagar": {
+      "distance_km": 12.54,
+      "duration_min": 15.5
+    },
+    "Mathikere": {
+      "distance_km": 16.76,
+      "duration_min": 21.2
+    },
+    "Yelahnka": {
+      "distance_km": 23.61,
+      "duration_min": 29.4
+    },
+    "Laggere": {
+      "distance_km": 17.9,
+      "duration_min": 23.3
+    },
+    "Majestic": {
+      "distance_km": 10.13,
+      "duration_min": 14.3
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 17.51,
+      "duration_min": 21.8
+    },
+    "KR Puram": {
+      "distance_km": 7.36,
+      "duration_min": 8.5
+    },
+    "Hebbal": {
+      "distance_km": 15.25,
+      "duration_min": 18.7
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 21.12,
+      "duration_min": 25.7
+    },
+    "Goraguntepalya": {
+      "distance_km": 17.28,
+      "duration_min": 21.0
+    }
+  },
+  "Vidyaranyapura": {
+    "Manyata Tech Park": {
+      "distance_km": 15.53,
+      "duration_min": 24.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 35.41,
+      "duration_min": 44.8
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 28.25,
+      "duration_min": 37.1
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 31.74,
+      "duration_min": 41.6
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 30.39,
+      "duration_min": 37.1
+    },
+    "Hoskote": {
+      "distance_km": 34.56,
+      "duration_min": 40.1
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 11.94,
+      "duration_min": 15.1
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 41.75,
+      "duration_min": 46.7
+    },
+    "Koramangala": {
+      "distance_km": 23.08,
+      "duration_min": 29.2
+    },
+    "Chickpet": {
+      "distance_km": 15.68,
+      "duration_min": 20.2
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 18.91,
+      "duration_min": 23.8
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 22.19,
+      "duration_min": 27.3
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 11.96,
+      "duration_min": 15.1
+    },
+    "KR Market": {
+      "distance_km": 16.13,
+      "duration_min": 21.6
+    },
+    "Commercial street": {
+      "distance_km": 16.13,
+      "duration_min": 21.1
+    },
+    "Russel Market": {
+      "distance_km": 15.27,
+      "duration_min": 19.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 38.74,
+      "duration_min": 51.1
+    },
+    "Lalbagh": {
+      "distance_km": 18.93,
+      "duration_min": 22.9
+    },
+    "Indiranagar": {
+      "distance_km": 23.99,
+      "duration_min": 29.3
+    },
+    "Chandra Layout": {
+      "distance_km": 18.94,
+      "duration_min": 21.6
+    },
+    "Yalachenahalli": {
+      "distance_km": 25.43,
+      "duration_min": 29.7
+    },
+    "Sahakara Nagar": {
+      "distance_km": 5.59,
+      "duration_min": 9.8
+    },
+    "RT Nagar": {
+      "distance_km": 12.22,
+      "duration_min": 16.9
+    },
+    "Mathikere": {
+      "distance_km": 7.18,
+      "duration_min": 9.2
+    },
+    "Yelahnka": {
+      "distance_km": 8.42,
+      "duration_min": 13.5
+    },
+    "Laggere": {
+      "distance_km": 11.89,
+      "duration_min": 15.8
+    },
+    "Majestic": {
+      "distance_km": 15.43,
+      "duration_min": 20.1
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 10.02,
+      "duration_min": 14.0
+    },
+    "KR Puram": {
+      "distance_km": 19.22,
+      "duration_min": 27.4
+    },
+    "Hebbal": {
+      "distance_km": 12.08,
+      "duration_min": 16.8
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 31.82,
+      "duration_min": 29.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 8.7,
+      "duration_min": 11.8
+    }
+  },
+  "Chandra Layout": {
+    "Manyata Tech Park": {
+      "distance_km": 21.41,
+      "duration_min": 26.1
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 24.58,
+      "duration_min": 29.3
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 29.9,
+      "duration_min": 33.0
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 22.42,
+      "duration_min": 27.9
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 27.14,
+      "duration_min": 31.6
+    },
+    "Hoskote": {
+      "distance_km": 37.69,
+      "duration_min": 36.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 10.85,
+      "duration_min": 13.1
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 27.31,
+      "duration_min": 27.7
+    },
+    "Koramangala": {
+      "distance_km": 15.52,
+      "duration_min": 17.0
+    },
+    "Chickpet": {
+      "distance_km": 8.71,
+      "duration_min": 11.8
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 7.19,
+      "duration_min": 7.9
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 10.03,
+      "duration_min": 10.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 9.92,
+      "duration_min": 10.9
+    },
+    "KR Market": {
+      "distance_km": 7.9,
+      "duration_min": 10.5
+    },
+    "Commercial street": {
+      "distance_km": 12.8,
+      "duration_min": 15.4
+    },
+    "Russel Market": {
+      "distance_km": 12.52,
+      "duration_min": 14.7
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 24.29,
+      "duration_min": 32.2
+    },
+    "Lalbagh": {
+      "distance_km": 9.05,
+      "duration_min": 11.0
+    },
+    "Indiranagar": {
+      "distance_km": 18.36,
+      "duration_min": 19.8
+    },
+    "Vidyaranyapura": {
+      "distance_km": 19.29,
+      "duration_min": 22.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 9.95,
+      "duration_min": 9.5
+    },
+    "Sahakara Nagar": {
+      "distance_km": 18.58,
+      "duration_min": 22.4
+    },
+    "RT Nagar": {
+      "distance_km": 15.58,
+      "duration_min": 18.3
+    },
+    "Mathikere": {
+      "distance_km": 12.27,
+      "duration_min": 14.5
+    },
+    "Yelahnka": {
+      "distance_km": 24.3,
+      "duration_min": 29.4
+    },
+    "Laggere": {
+      "distance_km": 8.13,
+      "duration_min": 11.5
+    },
+    "Majestic": {
+      "distance_km": 9.61,
+      "duration_min": 12.3
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 12.04,
+      "duration_min": 13.4
+    },
+    "KR Puram": {
+      "distance_km": 20.86,
+      "duration_min": 23.3
+    },
+    "Hebbal": {
+      "distance_km": 15.93,
+      "duration_min": 18.7
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 7.94,
+      "duration_min": 9.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 11.81,
+      "duration_min": 12.6
+    }
+  },
+  "Yalachenahalli": {
+    "Manyata Tech Park": {
+      "distance_km": 20.91,
+      "duration_min": 25.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 26.22,
+      "duration_min": 21.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 28.61,
+      "duration_min": 31.4
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 16.81,
+      "duration_min": 21.4
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 23.57,
+      "duration_min": 25.9
+    },
+    "Hoskote": {
+      "distance_km": 36.4,
+      "duration_min": 35.2
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 19.48,
+      "duration_min": 23.1
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 18.1,
+      "duration_min": 19.0
+    },
+    "Koramangala": {
+      "distance_km": 9.91,
+      "duration_min": 10.5
+    },
+    "Chickpet": {
+      "distance_km": 9.05,
+      "duration_min": 10.3
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 6.06,
+      "duration_min": 6.6
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 4.42,
+      "duration_min": 4.4
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 12.7,
+      "duration_min": 13.7
+    },
+    "KR Market": {
+      "distance_km": 8.23,
+      "duration_min": 8.4
+    },
+    "Commercial street": {
+      "distance_km": 12.25,
+      "duration_min": 14.5
+    },
+    "Russel Market": {
+      "distance_km": 11.98,
+      "duration_min": 13.7
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 15.08,
+      "duration_min": 23.4
+    },
+    "Lalbagh": {
+      "distance_km": 6.9,
+      "duration_min": 8.2
+    },
+    "Indiranagar": {
+      "distance_km": 12.76,
+      "duration_min": 13.2
+    },
+    "Vidyaranyapura": {
+      "distance_km": 24.34,
+      "duration_min": 27.8
+    },
+    "Chandra Layout": {
+      "distance_km": 9.56,
+      "duration_min": 12.3
+    },
+    "Sahakara Nagar": {
+      "distance_km": 20.61,
+      "duration_min": 23.4
+    },
+    "RT Nagar": {
+      "distance_km": 16.48,
+      "duration_min": 19.0
+    },
+    "Mathikere": {
+      "distance_km": 17.32,
+      "duration_min": 20.1
+    },
+    "Yelahnka": {
+      "distance_km": 26.33,
+      "duration_min": 30.4
+    },
+    "Laggere": {
+      "distance_km": 17.7,
+      "duration_min": 21.3
+    },
+    "Majestic": {
+      "distance_km": 10.77,
+      "duration_min": 13.2
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 17.98,
+      "duration_min": 20.6
+    },
+    "KR Puram": {
+      "distance_km": 19.58,
+      "duration_min": 21.7
+    },
+    "Hebbal": {
+      "distance_km": 17.97,
+      "duration_min": 19.8
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 12.71,
+      "duration_min": 13.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 17.75,
+      "duration_min": 19.8
+    }
+  },
+  "Sahakara Nagar": {
+    "Manyata Tech Park": {
+      "distance_km": 11.26,
+      "duration_min": 17.0
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 31.47,
+      "duration_min": 40.4
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 23.98,
+      "duration_min": 29.7
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 27.7,
+      "duration_min": 36.7
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 24.45,
+      "duration_min": 30.4
+    },
+    "Hoskote": {
+      "distance_km": 30.29,
+      "duration_min": 32.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 13.97,
+      "duration_min": 20.0
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 37.81,
+      "duration_min": 42.3
+    },
+    "Koramangala": {
+      "distance_km": 19.04,
+      "duration_min": 24.2
+    },
+    "Chickpet": {
+      "distance_km": 12.57,
+      "duration_min": 16.5
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 16.95,
+      "duration_min": 21.0
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.25,
+      "duration_min": 22.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 10.61,
+      "duration_min": 15.2
+    },
+    "KR Market": {
+      "distance_km": 14.41,
+      "duration_min": 18.1
+    },
+    "Commercial street": {
+      "distance_km": 12.09,
+      "duration_min": 16.2
+    },
+    "Russel Market": {
+      "distance_km": 11.23,
+      "duration_min": 14.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 34.79,
+      "duration_min": 46.7
+    },
+    "Lalbagh": {
+      "distance_km": 14.99,
+      "duration_min": 18.5
+    },
+    "Indiranagar": {
+      "distance_km": 19.95,
+      "duration_min": 24.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 5.47,
+      "duration_min": 9.6
+    },
+    "Chandra Layout": {
+      "distance_km": 18.43,
+      "duration_min": 22.3
+    },
+    "Yalachenahalli": {
+      "distance_km": 22.94,
+      "duration_min": 26.1
+    },
+    "RT Nagar": {
+      "distance_km": 7.29,
+      "duration_min": 11.3
+    },
+    "Mathikere": {
+      "distance_km": 6.67,
+      "duration_min": 9.9
+    },
+    "Yelahnka": {
+      "distance_km": 6.9,
+      "duration_min": 11.7
+    },
+    "Laggere": {
+      "distance_km": 12.14,
+      "duration_min": 18.3
+    },
+    "Majestic": {
+      "distance_km": 13.46,
+      "duration_min": 18.3
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 9.51,
+      "duration_min": 14.3
+    },
+    "KR Puram": {
+      "distance_km": 14.95,
+      "duration_min": 19.9
+    },
+    "Hebbal": {
+      "distance_km": 6.09,
+      "duration_min": 9.6
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 25.81,
+      "duration_min": 30.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 8.19,
+      "duration_min": 12.1
+    }
+  },
+  "RT Nagar": {
+    "Manyata Tech Park": {
+      "distance_km": 8.44,
+      "duration_min": 13.1
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 26.49,
+      "duration_min": 33.4
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 21.34,
+      "duration_min": 24.4
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 22.04,
+      "duration_min": 29.7
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 20.06,
+      "duration_min": 23.9
+    },
+    "Hoskote": {
+      "distance_km": 29.32,
+      "duration_min": 29.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 13.6,
+      "duration_min": 18.3
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 32.83,
+      "duration_min": 35.3
+    },
+    "Koramangala": {
+      "distance_km": 13.38,
+      "duration_min": 17.2
+    },
+    "Chickpet": {
+      "distance_km": 7.59,
+      "duration_min": 9.5
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 11.97,
+      "duration_min": 14.1
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 13.27,
+      "duration_min": 16.0
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 5.63,
+      "duration_min": 8.3
+    },
+    "KR Market": {
+      "distance_km": 9.43,
+      "duration_min": 11.1
+    },
+    "Commercial street": {
+      "distance_km": 5.79,
+      "duration_min": 7.9
+    },
+    "Russel Market": {
+      "distance_km": 4.93,
+      "duration_min": 6.6
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 29.82,
+      "duration_min": 39.8
+    },
+    "Lalbagh": {
+      "distance_km": 10.01,
+      "duration_min": 11.6
+    },
+    "Indiranagar": {
+      "distance_km": 13.25,
+      "duration_min": 17.1
+    },
+    "Vidyaranyapura": {
+      "distance_km": 12.07,
+      "duration_min": 17.5
+    },
+    "Chandra Layout": {
+      "distance_km": 15.02,
+      "duration_min": 17.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 17.97,
+      "duration_min": 19.1
+    },
+    "Sahakara Nagar": {
+      "distance_km": 6.25,
+      "duration_min": 10.0
+    },
+    "Mathikere": {
+      "distance_km": 6.74,
+      "duration_min": 10.3
+    },
+    "Yelahnka": {
+      "distance_km": 11.97,
+      "duration_min": 17.0
+    },
+    "Laggere": {
+      "distance_km": 10.6,
+      "duration_min": 15.1
+    },
+    "Majestic": {
+      "distance_km": 8.48,
+      "duration_min": 11.4
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 8.13,
+      "duration_min": 11.5
+    },
+    "KR Puram": {
+      "distance_km": 12.3,
+      "duration_min": 14.7
+    },
+    "Hebbal": {
+      "distance_km": 3.59,
+      "duration_min": 6.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 21.41,
+      "duration_min": 24.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 7.9,
+      "duration_min": 10.7
+    }
+  },
+  "Mathikere": {
+    "Manyata Tech Park": {
+      "distance_km": 13.59,
+      "duration_min": 20.8
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 28.39,
+      "duration_min": 37.0
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 25.67,
+      "duration_min": 30.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 25.31,
+      "duration_min": 34.2
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 24.39,
+      "duration_min": 30.1
+    },
+    "Hoskote": {
+      "distance_km": 33.65,
+      "duration_min": 36.0
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 11.33,
+      "duration_min": 14.7
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 34.73,
+      "duration_min": 39.0
+    },
+    "Koramangala": {
+      "distance_km": 17.07,
+      "duration_min": 22.2
+    },
+    "Chickpet": {
+      "distance_km": 8.66,
+      "duration_min": 12.5
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 11.88,
+      "duration_min": 16.1
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 15.17,
+      "duration_min": 19.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 4.94,
+      "duration_min": 7.4
+    },
+    "KR Market": {
+      "distance_km": 9.1,
+      "duration_min": 13.9
+    },
+    "Commercial street": {
+      "distance_km": 10.13,
+      "duration_min": 14.2
+    },
+    "Russel Market": {
+      "distance_km": 9.27,
+      "duration_min": 12.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 31.71,
+      "duration_min": 43.4
+    },
+    "Lalbagh": {
+      "distance_km": 11.91,
+      "duration_min": 15.2
+    },
+    "Indiranagar": {
+      "distance_km": 17.99,
+      "duration_min": 22.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 7.21,
+      "duration_min": 9.5
+    },
+    "Chandra Layout": {
+      "distance_km": 11.92,
+      "duration_min": 13.9
+    },
+    "Yalachenahalli": {
+      "distance_km": 18.41,
+      "duration_min": 22.0
+    },
+    "Sahakara Nagar": {
+      "distance_km": 6.85,
+      "duration_min": 10.0
+    },
+    "RT Nagar": {
+      "distance_km": 6.22,
+      "duration_min": 10.0
+    },
+    "Yelahnka": {
+      "distance_km": 13.72,
+      "duration_min": 18.2
+    },
+    "Laggere": {
+      "distance_km": 7.5,
+      "duration_min": 11.7
+    },
+    "Majestic": {
+      "distance_km": 8.4,
+      "duration_min": 12.4
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 5.03,
+      "duration_min": 8.1
+    },
+    "KR Puram": {
+      "distance_km": 16.64,
+      "duration_min": 20.9
+    },
+    "Hebbal": {
+      "distance_km": 6.08,
+      "duration_min": 9.8
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 19.3,
+      "duration_min": 22.5
+    },
+    "Goraguntepalya": {
+      "distance_km": 4.37,
+      "duration_min": 7.1
+    }
+  },
+  "Yelahnka": {
+    "Manyata Tech Park": {
+      "distance_km": 17.25,
+      "duration_min": 24.0
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 36.25,
+      "duration_min": 45.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 29.97,
+      "duration_min": 36.7
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 32.48,
+      "duration_min": 42.0
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 30.44,
+      "duration_min": 37.4
+    },
+    "Hoskote": {
+      "distance_km": 32.02,
+      "duration_min": 36.7
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 19.74,
+      "duration_min": 27.0
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 42.59,
+      "duration_min": 47.7
+    },
+    "Koramangala": {
+      "distance_km": 23.82,
+      "duration_min": 29.6
+    },
+    "Chickpet": {
+      "distance_km": 17.35,
+      "duration_min": 21.8
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 21.73,
+      "duration_min": 26.4
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 23.03,
+      "duration_min": 28.3
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 15.39,
+      "duration_min": 20.6
+    },
+    "KR Market": {
+      "distance_km": 19.19,
+      "duration_min": 23.4
+    },
+    "Commercial street": {
+      "distance_km": 16.87,
+      "duration_min": 21.5
+    },
+    "Russel Market": {
+      "distance_km": 16.01,
+      "duration_min": 20.2
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 39.58,
+      "duration_min": 52.1
+    },
+    "Lalbagh": {
+      "distance_km": 19.77,
+      "duration_min": 23.9
+    },
+    "Indiranagar": {
+      "distance_km": 24.73,
+      "duration_min": 29.7
+    },
+    "Vidyaranyapura": {
+      "distance_km": 8.45,
+      "duration_min": 14.0
+    },
+    "Chandra Layout": {
+      "distance_km": 24.78,
+      "duration_min": 29.6
+    },
+    "Yalachenahalli": {
+      "distance_km": 27.73,
+      "duration_min": 31.5
+    },
+    "Sahakara Nagar": {
+      "distance_km": 7.78,
+      "duration_min": 12.1
+    },
+    "RT Nagar": {
+      "distance_km": 12.07,
+      "duration_min": 16.7
+    },
+    "Mathikere": {
+      "distance_km": 13.78,
+      "duration_min": 18.5
+    },
+    "Laggere": {
+      "distance_km": 19.25,
+      "duration_min": 26.9
+    },
+    "Majestic": {
+      "distance_km": 18.24,
+      "duration_min": 23.7
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 16.62,
+      "duration_min": 22.9
+    },
+    "KR Puram": {
+      "distance_km": 20.94,
+      "duration_min": 27.0
+    },
+    "Hebbal": {
+      "distance_km": 10.87,
+      "duration_min": 15.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 31.17,
+      "duration_min": 37.2
+    },
+    "Goraguntepalya": {
+      "distance_km": 15.3,
+      "duration_min": 20.7
+    }
+  },
+  "Laggere": {
+    "Manyata Tech Park": {
+      "distance_km": 19.0,
+      "duration_min": 25.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 31.92,
+      "duration_min": 38.1
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 28.76,
+      "duration_min": 34.5
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 26.5,
+      "duration_min": 35.9
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 26.0,
+      "duration_min": 33.1
+    },
+    "Hoskote": {
+      "distance_km": 36.56,
+      "duration_min": 39.4
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 2.55,
+      "duration_min": 5.8
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 34.65,
+      "duration_min": 36.5
+    },
+    "Koramangala": {
+      "distance_km": 17.76,
+      "duration_min": 24.0
+    },
+    "Chickpet": {
+      "distance_km": 9.85,
+      "duration_min": 14.2
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 12.46,
+      "duration_min": 16.6
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 17.38,
+      "duration_min": 19.7
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 6.52,
+      "duration_min": 9.7
+    },
+    "KR Market": {
+      "distance_km": 10.67,
+      "duration_min": 14.5
+    },
+    "Commercial street": {
+      "distance_km": 11.84,
+      "duration_min": 17.2
+    },
+    "Russel Market": {
+      "distance_km": 11.38,
+      "duration_min": 16.1
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 31.64,
+      "duration_min": 40.9
+    },
+    "Lalbagh": {
+      "distance_km": 13.1,
+      "duration_min": 16.9
+    },
+    "Indiranagar": {
+      "distance_km": 19.05,
+      "duration_min": 24.7
+    },
+    "Vidyaranyapura": {
+      "distance_km": 11.74,
+      "duration_min": 16.4
+    },
+    "Chandra Layout": {
+      "distance_km": 8.07,
+      "duration_min": 9.8
+    },
+    "Yalachenahalli": {
+      "distance_km": 17.3,
+      "duration_min": 18.2
+    },
+    "Sahakara Nagar": {
+      "distance_km": 12.09,
+      "duration_min": 17.9
+    },
+    "RT Nagar": {
+      "distance_km": 12.84,
+      "duration_min": 17.2
+    },
+    "Mathikere": {
+      "distance_km": 7.81,
+      "duration_min": 11.9
+    },
+    "Yelahnka": {
+      "distance_km": 18.96,
+      "duration_min": 26.2
+    },
+    "Majestic": {
+      "distance_km": 9.59,
+      "duration_min": 14.1
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 5.47,
+      "duration_min": 9.0
+    },
+    "KR Puram": {
+      "distance_km": 19.72,
+      "duration_min": 24.7
+    },
+    "Hebbal": {
+      "distance_km": 13.19,
+      "duration_min": 17.7
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 15.28,
+      "duration_min": 18.7
+    },
+    "Goraguntepalya": {
+      "distance_km": 3.97,
+      "duration_min": 6.9
+    }
+  },
+  "Majestic": {
+    "Manyata Tech Park": {
+      "distance_km": 14.38,
+      "duration_min": 19.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 21.2,
+      "duration_min": 29.4
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 22.87,
+      "duration_min": 26.2
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 18.13,
+      "duration_min": 26.6
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 20.11,
+      "duration_min": 24.9
+    },
+    "Hoskote": {
+      "distance_km": 30.66,
+      "duration_min": 30.0
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 10.72,
+      "duration_min": 18.0
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 27.54,
+      "duration_min": 31.4
+    },
+    "Koramangala": {
+      "distance_km": 9.39,
+      "duration_min": 14.7
+    },
+    "Chickpet": {
+      "distance_km": 1.84,
+      "duration_min": 4.3
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 4.59,
+      "duration_min": 7.4
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 7.86,
+      "duration_min": 10.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 3.43,
+      "duration_min": 5.0
+    },
+    "KR Market": {
+      "distance_km": 2.2,
+      "duration_min": 4.9
+    },
+    "Commercial street": {
+      "distance_km": 5.77,
+      "duration_min": 8.7
+    },
+    "Russel Market": {
+      "distance_km": 5.49,
+      "duration_min": 7.9
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 24.52,
+      "duration_min": 35.8
+    },
+    "Lalbagh": {
+      "distance_km": 4.56,
+      "duration_min": 7.5
+    },
+    "Indiranagar": {
+      "distance_km": 13.16,
+      "duration_min": 16.4
+    },
+    "Vidyaranyapura": {
+      "distance_km": 15.07,
+      "duration_min": 19.2
+    },
+    "Chandra Layout": {
+      "distance_km": 9.09,
+      "duration_min": 12.2
+    },
+    "Yalachenahalli": {
+      "distance_km": 11.11,
+      "duration_min": 13.3
+    },
+    "Sahakara Nagar": {
+      "distance_km": 11.54,
+      "duration_min": 15.9
+    },
+    "RT Nagar": {
+      "distance_km": 8.53,
+      "duration_min": 11.8
+    },
+    "Mathikere": {
+      "distance_km": 8.05,
+      "duration_min": 11.5
+    },
+    "Yelahnka": {
+      "distance_km": 17.26,
+      "duration_min": 23.0
+    },
+    "Laggere": {
+      "distance_km": 8.35,
+      "duration_min": 12.8
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 8.71,
+      "duration_min": 12.0
+    },
+    "KR Puram": {
+      "distance_km": 13.83,
+      "duration_min": 16.5
+    },
+    "Hebbal": {
+      "distance_km": 8.89,
+      "duration_min": 12.3
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 13.71,
+      "duration_min": 19.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 8.48,
+      "duration_min": 11.2
+    }
+  },
+  "Yeshwanthpur Railway Station": {
+    "Manyata Tech Park": {
+      "distance_km": 16.47,
+      "duration_min": 21.6
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 27.82,
+      "duration_min": 35.0
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 25.26,
+      "duration_min": 30.1
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 24.74,
+      "duration_min": 32.2
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 23.98,
+      "duration_min": 29.6
+    },
+    "Hoskote": {
+      "distance_km": 33.24,
+      "duration_min": 35.5
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 9.75,
+      "duration_min": 12.5
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 34.16,
+      "duration_min": 37.0
+    },
+    "Koramangala": {
+      "distance_km": 16.0,
+      "duration_min": 20.3
+    },
+    "Chickpet": {
+      "distance_km": 8.04,
+      "duration_min": 10.5
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 10.45,
+      "duration_min": 13.2
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 13.72,
+      "duration_min": 16.7
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 4.63,
+      "duration_min": 6.1
+    },
+    "KR Market": {
+      "distance_km": 8.66,
+      "duration_min": 11.1
+    },
+    "Commercial street": {
+      "distance_km": 10.84,
+      "duration_min": 13.6
+    },
+    "Russel Market": {
+      "distance_km": 8.86,
+      "duration_min": 12.3
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 31.14,
+      "duration_min": 41.4
+    },
+    "Lalbagh": {
+      "distance_km": 11.34,
+      "duration_min": 13.2
+    },
+    "Indiranagar": {
+      "distance_km": 18.23,
+      "duration_min": 21.3
+    },
+    "Vidyaranyapura": {
+      "distance_km": 10.26,
+      "duration_min": 13.2
+    },
+    "Chandra Layout": {
+      "distance_km": 10.49,
+      "duration_min": 10.9
+    },
+    "Yalachenahalli": {
+      "distance_km": 16.98,
+      "duration_min": 19.1
+    },
+    "Sahakara Nagar": {
+      "distance_km": 9.9,
+      "duration_min": 13.7
+    },
+    "RT Nagar": {
+      "distance_km": 7.38,
+      "duration_min": 11.2
+    },
+    "Mathikere": {
+      "distance_km": 3.25,
+      "duration_min": 5.4
+    },
+    "Yelahnka": {
+      "distance_km": 16.76,
+      "duration_min": 21.9
+    },
+    "Laggere": {
+      "distance_km": 6.06,
+      "duration_min": 8.8
+    },
+    "Majestic": {
+      "distance_km": 7.65,
+      "duration_min": 10.5
+    },
+    "KR Puram": {
+      "distance_km": 16.23,
+      "duration_min": 20.4
+    },
+    "Hebbal": {
+      "distance_km": 7.71,
+      "duration_min": 12.1
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 17.87,
+      "duration_min": 19.5
+    },
+    "Goraguntepalya": {
+      "distance_km": 4.06,
+      "duration_min": 4.9
+    }
+  },
+  "KR Puram": {
+    "Manyata Tech Park": {
+      "distance_km": 9.32,
+      "duration_min": 15.5
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 25.19,
+      "duration_min": 31.3
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 9.18,
+      "duration_min": 10.6
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 11.9,
+      "duration_min": 20.1
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 9.65,
+      "duration_min": 11.3
+    },
+    "Hoskote": {
+      "distance_km": 19.6,
+      "duration_min": 17.6
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 25.07,
+      "duration_min": 30.4
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 34.54,
+      "duration_min": 38.0
+    },
+    "Koramangala": {
+      "distance_km": 11.83,
+      "duration_min": 14.4
+    },
+    "Chickpet": {
+      "distance_km": 13.53,
+      "duration_min": 16.1
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 17.37,
+      "duration_min": 19.7
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.67,
+      "duration_min": 21.6
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 16.01,
+      "duration_min": 17.8
+    },
+    "KR Market": {
+      "distance_km": 14.83,
+      "duration_min": 16.7
+    },
+    "Commercial street": {
+      "distance_km": 9.86,
+      "duration_min": 12.1
+    },
+    "Russel Market": {
+      "distance_km": 10.2,
+      "duration_min": 12.4
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 31.52,
+      "duration_min": 42.5
+    },
+    "Lalbagh": {
+      "distance_km": 15.41,
+      "duration_min": 17.2
+    },
+    "Indiranagar": {
+      "distance_km": 10.18,
+      "duration_min": 12.5
+    },
+    "Vidyaranyapura": {
+      "distance_km": 24.26,
+      "duration_min": 29.9
+    },
+    "Chandra Layout": {
+      "distance_km": 21.97,
+      "duration_min": 24.9
+    },
+    "Yalachenahalli": {
+      "distance_km": 23.36,
+      "duration_min": 24.8
+    },
+    "Sahakara Nagar": {
+      "distance_km": 14.24,
+      "duration_min": 22.2
+    },
+    "RT Nagar": {
+      "distance_km": 13.99,
+      "duration_min": 16.8
+    },
+    "Mathikere": {
+      "distance_km": 18.21,
+      "duration_min": 22.5
+    },
+    "Yelahnka": {
+      "distance_km": 21.32,
+      "duration_min": 28.9
+    },
+    "Laggere": {
+      "distance_km": 21.68,
+      "duration_min": 26.4
+    },
+    "Majestic": {
+      "distance_km": 14.42,
+      "duration_min": 18.0
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 19.6,
+      "duration_min": 23.6
+    },
+    "Hebbal": {
+      "distance_km": 16.7,
+      "duration_min": 20.0
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 26.8,
+      "duration_min": 30.5
+    },
+    "Goraguntepalya": {
+      "distance_km": 19.38,
+      "duration_min": 22.8
+    }
+  },
+  "Hebbal": {
+    "Manyata Tech Park": {
+      "distance_km": 8.68,
+      "duration_min": 14.3
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 31.5,
+      "duration_min": 40.5
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 21.4,
+      "duration_min": 27.0
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 24.12,
+      "duration_min": 36.5
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 21.87,
+      "duration_min": 27.7
+    },
+    "Hoskote": {
+      "distance_km": 26.5,
+      "duration_min": 31.5
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 15.76,
+      "duration_min": 21.4
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 37.84,
+      "duration_min": 42.4
+    },
+    "Koramangala": {
+      "distance_km": 19.06,
+      "duration_min": 24.3
+    },
+    "Chickpet": {
+      "distance_km": 12.6,
+      "duration_min": 16.6
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 16.98,
+      "duration_min": 21.1
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 18.28,
+      "duration_min": 23.0
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 10.64,
+      "duration_min": 15.3
+    },
+    "KR Market": {
+      "distance_km": 14.44,
+      "duration_min": 18.2
+    },
+    "Commercial street": {
+      "distance_km": 11.92,
+      "duration_min": 15.7
+    },
+    "Russel Market": {
+      "distance_km": 11.06,
+      "duration_min": 14.4
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 34.82,
+      "duration_min": 46.8
+    },
+    "Lalbagh": {
+      "distance_km": 15.02,
+      "duration_min": 18.6
+    },
+    "Indiranagar": {
+      "distance_km": 19.45,
+      "duration_min": 24.4
+    },
+    "Vidyaranyapura": {
+      "distance_km": 7.34,
+      "duration_min": 11.9
+    },
+    "Chandra Layout": {
+      "distance_km": 20.22,
+      "duration_min": 23.6
+    },
+    "Yalachenahalli": {
+      "distance_km": 22.97,
+      "duration_min": 26.2
+    },
+    "Sahakara Nagar": {
+      "distance_km": 2.66,
+      "duration_min": 4.2
+    },
+    "RT Nagar": {
+      "distance_km": 7.4,
+      "duration_min": 10.0
+    },
+    "Mathikere": {
+      "distance_km": 8.46,
+      "duration_min": 11.2
+    },
+    "Yelahnka": {
+      "distance_km": 8.38,
+      "duration_min": 11.2
+    },
+    "Laggere": {
+      "distance_km": 13.93,
+      "duration_min": 19.7
+    },
+    "Majestic": {
+      "distance_km": 13.49,
+      "duration_min": 18.5
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 11.3,
+      "duration_min": 15.7
+    },
+    "KR Puram": {
+      "distance_km": 12.37,
+      "duration_min": 17.2
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 26.41,
+      "duration_min": 31.9
+    },
+    "Goraguntepalya": {
+      "distance_km": 9.98,
+      "duration_min": 13.5
+    }
+  },
+  "Kengeri Satellite Bus Stand": {
+    "Manyata Tech Park": {
+      "distance_km": 27.76,
+      "duration_min": 31.4
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 31.2,
+      "duration_min": 26.4
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 33.2,
+      "duration_min": 37.4
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 26.88,
+      "duration_min": 32.9
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 30.44,
+      "duration_min": 36.1
+    },
+    "Hoskote": {
+      "distance_km": 40.99,
+      "duration_min": 41.2
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 15.47,
+      "duration_min": 17.3
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 29.23,
+      "duration_min": 25.8
+    },
+    "Koramangala": {
+      "distance_km": 19.99,
+      "duration_min": 22.0
+    },
+    "Chickpet": {
+      "distance_km": 12.76,
+      "duration_min": 15.9
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 11.65,
+      "duration_min": 12.9
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 14.5,
+      "duration_min": 15.9
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 16.27,
+      "duration_min": 16.1
+    },
+    "KR Market": {
+      "distance_km": 11.96,
+      "duration_min": 14.7
+    },
+    "Commercial street": {
+      "distance_km": 16.84,
+      "duration_min": 20.5
+    },
+    "Russel Market": {
+      "distance_km": 16.57,
+      "duration_min": 19.8
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 26.21,
+      "duration_min": 30.3
+    },
+    "Lalbagh": {
+      "distance_km": 13.52,
+      "duration_min": 16.0
+    },
+    "Indiranagar": {
+      "distance_km": 22.83,
+      "duration_min": 24.8
+    },
+    "Vidyaranyapura": {
+      "distance_km": 25.63,
+      "duration_min": 27.5
+    },
+    "Chandra Layout": {
+      "distance_km": 7.34,
+      "duration_min": 8.5
+    },
+    "Yalachenahalli": {
+      "distance_km": 12.95,
+      "duration_min": 14.2
+    },
+    "Sahakara Nagar": {
+      "distance_km": 24.93,
+      "duration_min": 27.6
+    },
+    "RT Nagar": {
+      "distance_km": 21.92,
+      "duration_min": 23.5
+    },
+    "Mathikere": {
+      "distance_km": 18.62,
+      "duration_min": 19.8
+    },
+    "Yelahnka": {
+      "distance_km": 30.64,
+      "duration_min": 34.6
+    },
+    "Laggere": {
+      "distance_km": 14.29,
+      "duration_min": 16.6
+    },
+    "Majestic": {
+      "distance_km": 15.96,
+      "duration_min": 17.6
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 18.38,
+      "duration_min": 18.6
+    },
+    "KR Puram": {
+      "distance_km": 24.17,
+      "duration_min": 27.7
+    },
+    "Hebbal": {
+      "distance_km": 22.28,
+      "duration_min": 24.0
+    },
+    "Goraguntepalya": {
+      "distance_km": 18.15,
+      "duration_min": 17.8
+    }
+  },
+  "Goraguntepalya": {
+    "Manyata Tech Park": {
+      "distance_km": 17.72,
+      "duration_min": 23.2
+    },
+    "Electronic City Phase 1": {
+      "distance_km": 29.07,
+      "duration_min": 36.7
+    },
+    "ITPL Bengaluru": {
+      "distance_km": 26.51,
+      "duration_min": 31.7
+    },
+    "EcoWorld Bellandur": {
+      "distance_km": 25.99,
+      "duration_min": 33.8
+    },
+    "Brigade Tech Gardens": {
+      "distance_km": 25.23,
+      "duration_min": 31.2
+    },
+    "Hoskote": {
+      "distance_km": 34.49,
+      "duration_min": 37.1
+    },
+    "Peenya Industrial Area": {
+      "distance_km": 6.87,
+      "duration_min": 9.7
+    },
+    "Jigani Industrial Area": {
+      "distance_km": 35.41,
+      "duration_min": 38.6
+    },
+    "Koramangala": {
+      "distance_km": 17.25,
+      "duration_min": 21.9
+    },
+    "Chickpet": {
+      "distance_km": 9.29,
+      "duration_min": 12.2
+    },
+    "Gandhi Bazaar": {
+      "distance_km": 11.7,
+      "duration_min": 14.8
+    },
+    "Jayanagar 4th block": {
+      "distance_km": 14.97,
+      "duration_min": 18.3
+    },
+    "Malleshwaram 8th cross": {
+      "distance_km": 5.88,
+      "duration_min": 7.8
+    },
+    "KR Market": {
+      "distance_km": 9.91,
+      "duration_min": 12.8
+    },
+    "Commercial street": {
+      "distance_km": 12.08,
+      "duration_min": 15.2
+    },
+    "Russel Market": {
+      "distance_km": 10.11,
+      "duration_min": 13.9
+    },
+    "Bannerghatta Zoo": {
+      "distance_km": 32.39,
+      "duration_min": 43.0
+    },
+    "Lalbagh": {
+      "distance_km": 12.59,
+      "duration_min": 14.8
+    },
+    "Indiranagar": {
+      "distance_km": 19.48,
+      "duration_min": 23.0
+    },
+    "Vidyaranyapura": {
+      "distance_km": 9.41,
+      "duration_min": 13.1
+    },
+    "Chandra Layout": {
+      "distance_km": 11.74,
+      "duration_min": 12.6
+    },
+    "Yalachenahalli": {
+      "distance_km": 18.23,
+      "duration_min": 20.7
+    },
+    "Sahakara Nagar": {
+      "distance_km": 9.96,
+      "duration_min": 13.9
+    },
+    "RT Nagar": {
+      "distance_km": 8.63,
+      "duration_min": 12.8
+    },
+    "Mathikere": {
+      "distance_km": 4.5,
+      "duration_min": 7.1
+    },
+    "Yelahnka": {
+      "distance_km": 16.82,
+      "duration_min": 22.2
+    },
+    "Laggere": {
+      "distance_km": 4.97,
+      "duration_min": 7.9
+    },
+    "Majestic": {
+      "distance_km": 8.9,
+      "duration_min": 12.1
+    },
+    "Yeshwanthpur Railway Station": {
+      "distance_km": 1.33,
+      "duration_min": 2.6
+    },
+    "KR Puram": {
+      "distance_km": 17.48,
+      "duration_min": 22.0
+    },
+    "Hebbal": {
+      "distance_km": 8.96,
+      "duration_min": 13.7
+    },
+    "Kengeri Satellite Bus Stand": {
+      "distance_km": 19.12,
+      "duration_min": 21.2
+    }
+  }
+}
