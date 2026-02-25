@@ -65,6 +65,12 @@ uv run benchmark_all.py
 uv run visualizer.py
 ```
 
+## Results
+
+![Results](benchmark_results.png)
+
+Cumulative profit over 7 days for different LLM models.
+
 ## Limitations
 
 - Real auto drivers often bargain with passengers. This simulation uses fixed fare structure.
